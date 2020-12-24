@@ -1,6 +1,6 @@
 # Understanding User Behavior With ETL Pipeline
 
-- The game has two events we're interested in tracking: `buy a
+- The "game" has two events we're interested in tracking: `buy a
   sword` & `join guild`
 
 - Each has metadata characterstic of such events (i.e., sword type, guild name,
